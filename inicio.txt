@@ -1,0 +1,13 @@
+Sorteamos los números de integrantes:
+
+- José María Bernal -> Integrante 1
+- Ernesto Domínguez -> Integrante 2
+- Jesús Díaz -> Integrante 3
+
+Una vez sorteados leímos las prácticas y nos pusimos manos a la obra con la parte que le tocaba a cada uno.
+
+- Integrante 1: Administrará el repo en GITHUB, creará el repositorio y asociará los otros 2 usuarios (de GITHUB) para que puedan subir y hacer aportaciones al repositorio. Indicará en un comentario o fichero de texto de Github cómo ha sido el proceso para iniciar la producción de código (inicio.txt). Asumirá la subida de los archivos de la vista (carpeta /app/templates) y los de Fron-end (web/css + web/js + web/images). También recogerá las valoraciones de la experiencia del resto de integrantes y las indicará en un fichero de texto (valoraciones.txt) o en comentarios.
+
+- Integrante 2: Asumirá el controlador, archivos de configuración (web/index.php + app/Controller.php + app/Config.php). Gestión de cambios: Explicará en un archivo de texto del proyecto o bien mediante comentarios cómo se está desarrollando (histórico.txt). Desplegará el proyecto de GITHUB a una carpeta de su CDMON e insertará el enlace final al proyecto en el hosting (CDMON suyo) como un fichero de texto (enlace,txt).
+
+- Integrante 3: Asumirá el modelo (app/Model.php) y , tendrá que crear y añadir los scripts de instalación de la base de datos (install.php será un archivo nuevo + alimentos.sql archivo nuevo con las sentencias de SQL para crear la tabla de alimentos anterior) . Asumirá también el paso a producción y los cambios en el hosting de CDMON (creará una base de datos denominada alimentosX2019) y en el código para la conexión con la base de datos (Config.php usuario y contraseña de base de datos). En la cuenta de GITHUB subirá las indicaciones para la instalación y despliegue del proyecto en cualquier ubicación y los scripts de la base de datos (instalación.txt)
