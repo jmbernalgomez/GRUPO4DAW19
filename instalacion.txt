@@ -1,0 +1,24 @@
+Para la instalacion en cualquier servidor,
+habria que cambiar en el archivo seguridad/conexion.inc.php
+1.- el nombre del usuario de la base de datos del servidor
+2.- la contraseña de la base de datos del servidor
+<?php
+$mysql_server="localhost";
+$mysql_login="(el nombre de usuario)";
+$mysql_pass="(la contraseña)";
+$mysql_bd="alimentos42019";
+?>
+tambien habria que cambiar en el archivo app/Config.php
+1.- el nombre del usuario de la base de datos del servidor
+2.- la contraseña de la base de datos del servidor
+<?php
+
+ class Config
+ {
+     static public $mvc_bd_hostname = "localhost";
+     static public $mvc_bd_nombre   = "alimentos42019";
+     static public $mvc_bd_usuario  = "(el nombre de usuario)";
+     static public $mvc_bd_clave    = "(la contraseña)";
+     static public $mvc_vis_css     = "estilo.css";
+ }
+?>
