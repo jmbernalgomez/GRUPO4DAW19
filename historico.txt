@@ -1,0 +1,37 @@
+José María Bernal Gómez
+-----------------------
+
+2/12/2019
+- Creación de repositorio y asociación de colaboradores para que puedan subir y hacer aportaciones al repositorio.
+- Subida de archivos necesarios.
+- Subida de inicio.txt
+
+5/12/2019
+- Subida de valoraciones.txt
+
+
+Ernesto Domínguez Gómez
+-----------------------
+
+5/12/2019 
+He subido al repositorio de Github los ficheros siguientes: 
+- En /web he añadido index.html
+- En /app he añadido Config.php y Controller.php
+
+En mi Cdmon he desplegado el proyecto y he adjuntado las url en la moodle.
+
+
+Jesús Díaz Pérez
+----------------------
+
+5/12/2019
+En la carpeta /app/ creo los archivos:
+	1. - install.php que instala la base de datos
+	2. - alimentos.sql con la sentencia de mysql
+	3. - Muevo y modifico Model.php
+	4. - Muevo y modifico Config.php con los datos de conexión de la base de datos
+Creo la carpeta /seguridad/ y en ella los archivos:
+	1. - conexion.inc.php con los datos de conexión de la base de datos
+	2. - sentencias sql.php con la sentencia de mysql
+En la carpeta /GRUPODAW19/
+	instalación.txt con datos de movilidad de la base de datos entre servidores
