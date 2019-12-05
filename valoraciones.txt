@@ -1,0 +1,13 @@
+VALORACIONES:
+
+José María Bernal
+---------------------------------
+En general me pareció un poco difícil de entenderlo al principio. Cuando empecé con la práctica y empecé a probar (se pueden ver muchos commit por este motivo), fui entendiendolo y creo que es bastante útil para desplegar proyectos y trabajar en conjunto con otras personas. 
+
+Ernesto Domínguez
+---------------------------------
+Me ha resultado difícil al principio pero conforme he ido viéndolo me ha parecido una gran herramienta para hacer proyectos en grupo y que cuando lo entiendes es todo muy fácil y claro.
+
+Jesús Díaz
+---------------------------------
+Es un proyecto con 3 partes, José María se encarga del repositorio en Github y manejar las vistas, Ernesto de desplegarlo en su cdmon y yo de la base de datos y su instalación. Una vez asumido el papel de cada integrante hemos hecho los commit correspondientes para añadirlos de Git a Github.
